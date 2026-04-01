@@ -14,7 +14,8 @@
 <img width="668" height="375" alt="SUMMARY" src="https://github.com/user-attachments/assets/53b85e15-a073-46f5-aed3-f9aac37e5259" />
 
 ### Sales & Revenue Analysis
-<img width="668" height="376" alt="SALES AND REVENUE ANALYSIS" src="https://github.com/user-attachments/assets/ef8b3ac3-c4c4-4c15-b79e-10f396b4f708" />
+<img width="669" height="376" alt="SALES   REVENUE ANALYSIS" src="https://github.com/user-attachments/assets/f60ef02b-8700-4a91-bf3c-3d95002f39df" />
+
 
 ### Product Performance
 <img width="669" height="377" alt="PRODUCT PERFORMANCE" src="https://github.com/user-attachments/assets/4ddbaed0-b703-4a6d-b8fe-2204352ce01e" />
